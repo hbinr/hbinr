@@ -2,7 +2,7 @@
 
 - 🏢 Here are the companies I have worked for
   - [JD](https://www.jd.com/)
-  - [Blued](https://www.blued.cn/)
+  - [Blued](https://www.blued.cn/) (now)
 - 🌱 I’m currently learning :
   - [Dapr](https://github.com/dapr/dapr)
   - [DDD on Go](https://threedots.tech/)
@@ -13,6 +13,6 @@
   - [XS-bbs](https://github.com/hbinr/XS-bbs) is a BBS forum application.It was developed by me after learning go
   - [mall-admin-web](https://github.com/hbinr/mall-admin-web) is a Mall Background Management Project.It was developed by me after learning VUE.
 - Study Note:
-  - [Study Note](https://www.yuque.com/u2278269/gq5x74)
+  - [个人长期学习笔记](https://www.yuque.com/u2278269/gq5x74)
 - 📧 How to reach me: 
   - xiangshouduan@gmail.com
