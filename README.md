@@ -7,7 +7,7 @@
   - [Dapr](https://github.com/dapr/dapr)
   - [DDD on Go](https://threedots.tech/)
 - 🎼 My repositories that need to be focused on:
-  - [dapr-ddd-action](https://github.com/hbinr/go-full-stack-learn)  is using Dapr framewok to build a simple application with DDD.
+  - [dapr-ddd-action](https://github.com/hbinr/dapr-ddd-action)  is using Dapr framewok to build a simple application with DDD.
   - [go-full-stack-learn](https://github.com/hbinr/go-full-stack-learn) is a study note which covered with Go, TS, SQL/Cache, MQ, Clound Native etc...
   - [kratos-admin](https://github.com/hbinr/dapr-ddd-action) is a simple user-service application which used [Kratos](https://github.com/go-kratos/kratos), gorm, go-redis, zap.
   - [XS-bbs](https://github.com/hbinr/XS-bbs) is a BBS forum application.It was developed by me after learning Go.
