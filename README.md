@@ -2,7 +2,7 @@
 
 - 🏢 Here are the companies I have worked for
   - [JD](https://www.jd.com/)
-  - [Blued](https://www.blued.cn/) (now)
+  - [Blued](https://www.blued.cn/) 
 - 🌱 I’m currently learning :
   - [Dapr](https://github.com/dapr/dapr)
   - [DDD on Go](https://threedots.tech/)
