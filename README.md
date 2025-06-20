@@ -2,10 +2,11 @@
 
 - 🏢 Here are the companies I have worked for
   - [JD](https://www.jd.com/)
-  - [Blued](https://www.blued.cn/) 
+  - [Blued](https://www.blued.cn/)
+  - [ShiZhe](https://shizhe-ai.com)
 - 🌱 I’m currently learning :
-  - [Dapr](https://github.com/dapr/dapr)
-  - [DDD on Go](https://threedots.tech/)
+  - [LLM]
+  - [Agent]
 - 🎼 My repositories that need to be focused on:
   - [dapr-ddd-action](https://github.com/hbinr/dapr-ddd-action)  is using Dapr framewok to build a simple application with DDD.
   - [go-full-stack-learn](https://github.com/hbinr/go-full-stack-learn) is a study note which covered with Go, TS, SQL/Cache, MQ, Clound Native etc...
