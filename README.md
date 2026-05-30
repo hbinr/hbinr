@@ -12,6 +12,8 @@
   - [Gbrain](https://github.com/garrytan/gbrain) - AI agent framework by Garry Tan
   - [Hermes](https://github.com/NousResearch/hermes-agent) - NousResearch's advanced AI agent system
   - [Pi](https://github.com/earendil-works/pi) - Next-generation AI agent platform
+  - [CodeWhale](https://github.com/Hmbown/CodeWhale) - Rust-based terminal coding agent built around DeepSeek V4 with 1M-token context
+
 - 🎼 My repositories that need to be focused on:
   - [dapr-ddd-action](https://github.com/hbinr/dapr-ddd-action) - Using Dapr framework to build a simple application with DDD architecture
   - [go-full-stack-learn](https://github.com/hbinr/go-full-stack-learn) - Comprehensive study notes covering Go, Rust, TypeScript, SQL/Cache, MQ, Cloud Native, etc.
@@ -20,9 +22,8 @@
   - [mall-admin-web](https://github.com/hbinr/mall-admin-web) - Mall background management project developed after learning Vue
 
 - 📒 Study Note:
-  - [Study Note](https://www.yuque.com/u2278269/gq5x74) - Covers AI, Cloud Native, Blockchain, Data Structures & Algorithms, Programming Languages (Go, Rust, TypeScript), Backend Frameworks, Frontend, DevOps, Databases, Middleware, Operating Systems, System Design and more
+  - [Study Note](https://www.yuque.com/u2278269/gq5x74) - Covers AI, Cloud Native, Data Structures & Algorithms, Programming Languages (Go, Rust, TypeScript), Backend Frameworks, Frontend, DevOps, Databases, Middleware, Operating Systems, System Design and more
 
 - 📧 How to reach me: 
   - xiangshouduan@gmail.com
-
 
